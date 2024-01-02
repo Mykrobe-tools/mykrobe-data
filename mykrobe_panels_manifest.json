@@ -14,5 +14,9 @@
   "typhi": {
     "url": "https://ndownloader.figshare.com/files/38478086",
     "version": "20221208"
+  },
+  "paratyphiB": {
+    "url": "https://figshare.com/ndownloader/files/43870968",
+    "version": "20230627"
   }
 }
